@@ -1,0 +1,4 @@
+print("Enter your annual salary:120000")
+print("Enter the percentage of your salary to save as decimal: .10")
+print("enter the cost of your dream home: 10000000")
+print("Number of months: 183")
